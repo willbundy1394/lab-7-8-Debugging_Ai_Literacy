@@ -27,4 +27,4 @@ What I changed myself: What I changed myself was really just a trial an error of
 Can I explain every fixed line? Yes
 
 ## What I learned
-What I leanred this week was that a DEBUG print helps indictae errors, this assignment I spent a lot of time using trial and error and kind of staring at the code not know what was wrong and running it to see whats actually. Instead of playing detective the DEBUG print helped me find the issue and understand the error that kept popping up. 
+What I leanred this week was that a DEBUG print helps indicate errors I often times would overlook. This assignment I spent a lot of time using trial and error and kind of staring at the code not know what was wrong and running it to see whats actually wrong. Instead of playing detective the DEBUG print helped me find the issue and understand the error that kept popping up. 
